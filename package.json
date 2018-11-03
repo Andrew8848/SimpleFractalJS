@@ -1,0 +1,14 @@
+{
+    "devDependencies": {
+        "lite-server": "^2.4.0",
+        "three": "^0.96.0"
+    },
+    "scripts": {
+        "start": "npm run lite",
+        "lite": "lite-server"
+    },
+    "dependencies": {
+        "dat.gui": "^0.7.2",
+        "p5": "^0.7.2"
+    }
+}
